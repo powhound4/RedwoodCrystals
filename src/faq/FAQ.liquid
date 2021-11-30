@@ -1,14 +1,16 @@
+<div class="faq-page-container">
+  <h2 class="faq-title">FAQ</h2>
 
-<h2 class="faq-title">FAQ</h2>
+  <div class="faq-content">
+  {% for faq in collections.faq %}
+    <button type="button" class="collapsible">{{faq.data.question}}</button>
+    <div class="content">
+      <p>{{faq.data.answer}}</p>
+    </div>
 
-<div class="faq-content">
-{% for faq in collections.faq %}
-<button type="button" class="collapsible">{{faq.data.question}}</button>
-<div class="content">
-  <p>{{faq.data.answer}}</p>
-</div>
+  {% endfor %}
 
-{% endfor %}
+  </div>
 
 </div>
 

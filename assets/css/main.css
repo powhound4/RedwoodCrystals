@@ -6,6 +6,15 @@
 @import url(./policy-page.css);
 
 
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.main-content{
+  padding-bottom: 15.5rem; 
+}
+
 header {
     align-items: center;
     background-color: var(--main-light);
@@ -30,6 +39,13 @@ header {
     background-color: var(--main-dark);
     height: 45px;
     border-radius: 5px;
+  }
+
+  .sm-toolbar-content{
+    color: var(--main-light);
+    display: flex;
+    align-content: center;
+    margin-right: 15px;
   }
 
   .media-item{
@@ -59,7 +75,7 @@ header {
   .snipcart-checkout{
     color: var(--main-light);
     cursor: pointer;
-    margin-right: 15px;
+    
     margin-left: -5px;
   }
 
@@ -144,7 +160,10 @@ header {
     padding:30px;
     color: var(--main-light);
     background-color: #123132;
-    
+    position: absolute;
+    bottom: 0;
+    height: 10.5rem; 
+    width: 96%;
   }
 
   .footer-main-content{

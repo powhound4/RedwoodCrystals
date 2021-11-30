@@ -23,79 +23,89 @@
 </head>
 
   <body>
-    <header>
-      <img src="/uploads/redwood-crystal-gold-no-text.png" alt="Redwood Crystals" width="150" height="127">
+    <div class="page-container">
+      <div class="main-content">
+        <header>
+          <img src="/uploads/redwood-crystal-gold-no-text.png" alt="Redwood Crystals" width="150" height="127">
 
-      <div class="toolbar-container">
+          <div class="toolbar-container">
 
-        <div class="social-media-toolbar">
-          <a class="media-item">Instagram</a>
-          <a class="media-item" href="https://www.facebook.com/redwoodcrystals" target="_blank">Facebook</a>
-          <script async src="https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.js"></script>
-          <div hidden id="snipcart" data-api-key="YzYyNDNhYTEtNDc3ZC00ZGM0LTllODItZDIxMDZiMjMxMDhhNjM3NzM4MTc1MzA2Nzk4NjEx" data-config-modal-style="side"></div>
-          
-          <span class="snipcart-checkout material-icons">shopping_cart</span>
-        </div>
-
-        <div class='main-toolbar'>
-          <p id="site-logo">
-            <a href="/">Redwood Crystals</a>
-          </p>
-
-          <div class="header-links">
-
-          
-            <div class="dropdown">
-              <button class="dropbtn">SHOP</button>
-              <div class="dropdown-content">
-                <a href="/collections/all">Entire Collection</a>
-                <a href="/collections/under10">Crystals Under $10</a>
-                <a href="/collections/selenite">Selenite Collection</a>
-                <a href="#">Kits & Bowls</a>
-                <a href="#">Limited Edition</a>
-
-
+            <div class="social-media-toolbar">
+              <div class="sm-toolbar-content">
+                <a class="media-item">Instagram</a>
+                <a class="media-item" href="https://www.facebook.com/redwoodcrystals" target="_blank">Facebook</a>
+                <script async src="https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.js"></script>
+                <div hidden id="snipcart" data-api-key="YzYyNDNhYTEtNDc3ZC00ZGM0LTllODItZDIxMDZiMjMxMDhhNjM3NzM4MTc1MzA2Nzk4NjEx" data-config-modal-style="side"></div>
+                
+                <span class="snipcart-checkout material-icons">shopping_cart</span>
+                <span>(</span>
+                <span class="snipcart-items-count"></span>
+                <span>)</span>
               </div>
-            </div> 
+            </div>
 
-            
-            <a class="toolbar-button" href="/FAQ">FAQ</a>
+            <div class='main-toolbar'>
+              <p id="site-logo">
+                <a href="/">Redwood Crystals</a>
+              </p>
 
-            <a class="toolbar-button">CONTACT</a>  
+              <div class="header-links">
+
+              
+                <div class="dropdown">
+                  <button class="dropbtn">SHOP</button>
+                  <div class="dropdown-content">
+                    <a href="/collections/product">Entire Collection</a>
+                    <a href="/collections/under10">Crystals Under $10</a>
+                    <a href="/collections/selenite">Selenite Collection</a>
+                    <a href="#">Kits & Bowls</a>
+                    <a href="#">Limited Edition</a>
+
+
+                  </div>
+                </div> 
+
+                
+                <a class="toolbar-button" href="/FAQ">FAQ</a>
+
+                <a class="toolbar-button">CONTACT</a>  
+              </div>
+
+              
+            </div>
           </div>
+        </header>
 
-          
+        {{ content | safe }}
+
         </div>
-      </div>
-    </header>
 
-    {{ content | safe }}
-
-    <footer class="footer-container">
-    <div class="footer-main-content">
-      <div class="footer-box" id="footer-store">
-        <h2>OUR STORE</h2>
-        <p class="address-p">Address: The Be Free Healing Center 1006 Spring Creek Ln b12, Fort Collins, CO 80526
-          Phone: 970-691-7201
-          Email:  redwoodcrystals@gmail.com
-        </p>
-      </div>
-      <div class="footer-box" id="footer-hours">
-        <h2>OPENING HOURS</h2>
-          <div>Mon - Fri: 7am - 10pm</div>
-  ​​        <div>Saturday: 8am - 10pm</div>
-  ​        <div>Sunday: 8am - 11pm</div>
-        
-      </div>
-      <div class="footer-box" id="footer-links">
-        <h2>HELP</h2>
-        <div class="help-link-container">
-          <a class="help-link" href="/Shipping-and-Returns">Shipping & Returns</a>
-          <a class="help-link" href="/FAQ">FAQ</a>
-          <a class="help-link" href="/Privacy-policy">Privacy Policy</a>
+        <footer class="footer-container">
+        <div class="footer-main-content">
+          <div class="footer-box" id="footer-store">
+            <h2>OUR STORE</h2>
+            <p class="address-p">Address: The Be Free Healing Center 1006 Spring Creek Ln b12, Fort Collins, CO 80526
+              Phone: 970-691-7201
+              Email:  redwoodcrystals@gmail.com
+            </p>
+          </div>
+          <div class="footer-box" id="footer-hours">
+            <h2>OPENING HOURS</h2>
+              <div>Mon - Fri: 7am - 10pm</div>
+      ​​        <div>Saturday: 8am - 10pm</div>
+      ​        <div>Sunday: 8am - 11pm</div>
+            
+          </div>
+          <div class="footer-box" id="footer-links">
+            <h2>HELP</h2>
+            <div class="help-link-container">
+              <a class="help-link" href="/Shipping-and-Returns">Shipping & Returns</a>
+              <a class="help-link" href="/FAQ">FAQ</a>
+              <a class="help-link" href="/Privacy-policy">Privacy Policy</a>
+            </div>
+          </div>
         </div>
-      </div>
+        </footer>
     </div>
-    </footer>
   </body>
 </html>

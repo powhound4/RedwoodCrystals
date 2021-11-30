@@ -82,6 +82,8 @@
   border-radius: 5px;
   color: var(--main-dark);
   cursor: pointer;
+  box-shadow: 5px 5px 5px var(--main-dark);
+  font-weight: 600;
 }
 
 @media (min-width: 40em) {
@@ -90,7 +92,9 @@
       justify-content: space-evenly;
     }
     #product-view img {
-      max-width: 40vw;
+      max-width: 25vw;
+      margin: 0px 10px 0px 10px;
+      border-radius: 5px;
     }
     #product-view .body {
       max-width: 30em;
