@@ -10,5 +10,7 @@ tags:
 - under10
 album:
 - "/uploads/whitesage.jpeg"
+max_quantity: 
+grams: 10
 
 ---
