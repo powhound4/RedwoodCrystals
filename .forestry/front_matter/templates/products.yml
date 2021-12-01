@@ -39,6 +39,26 @@ fields:
   type: image_gallery
   config: {}
   label: Album
+- name: max_quantity
+  type: number
+  label: max quantity
+  description: The max amount a customer will be able to order of each item.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: grams
+  type: number
+  label: grams
+  description: the weight of the item in grams (used to calculate shipping)
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - src/products/Blue_Tigers_Eye.md
 - src/products/Honeycomb_Calcite.md
