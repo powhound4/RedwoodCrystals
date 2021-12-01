@@ -5,16 +5,14 @@
 @import url(./product-page.css);
 @import url(./policy-page.css);
 
-#snipcart{
-  /* display: none; */
-}
+
 .page-container {
   position: relative;
   min-height: 100vh;
 }
 
 .main-content{
-  padding-bottom: 14.2rem; 
+  padding-bottom: 17.7rem; 
 }
 
 header {
@@ -164,7 +162,7 @@ header {
     background-color: #123132;
     position: absolute;
     bottom: 0;
-    height: 10.5rem; 
+    
     width: 100%;
   }
 
@@ -191,7 +189,10 @@ header {
     color: var(--main-light);
     margin: 5px;
   }
-
+#fathym-img-container{
+  display: flex;
+  justify-content: center;
+}
 
 
   
