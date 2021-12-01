@@ -1,5 +1,22 @@
 @import url(./theme.css);
 
+.fc-page-container{
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.faq-page-container{
+  display: grid;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+}
+
+.fc-title{
+  color: var(--main-dark);
+}
+
 .collapsible {
     background-color: #777;
     color: white;

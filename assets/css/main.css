@@ -1,18 +1,20 @@
 @import url(./front-page.css);
 @import url(./theme.css);
 @import url(./carousel.css);
-@import url(./faq.css);
+@import url(./faq_contact.css);
 @import url(./product-page.css);
 @import url(./policy-page.css);
 
-
+#snipcart{
+  /* display: none; */
+}
 .page-container {
   position: relative;
   min-height: 100vh;
 }
 
 .main-content{
-  padding-bottom: 15.5rem; 
+  padding-bottom: 14.2rem; 
 }
 
 header {
@@ -163,7 +165,7 @@ header {
     position: absolute;
     bottom: 0;
     height: 10.5rem; 
-    width: 96%;
+    width: 100%;
   }
 
   .footer-main-content{

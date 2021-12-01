@@ -74,6 +74,22 @@
     font-weight: normal;
   }
 
+  .cart-content{
+    display: grid;
+  }
+
+  .quantity-container{
+    margin-bottom: 15px;
+  }
+
+  #quantity{
+    height: 25px;
+    text-align: center;
+    width: 50px;
+    border: 2px solid var(--main-dark);
+    border-radius: 5px;
+  }
+
 .snipcart-add-item{
   width: 200px;
   background-color: var(--button-color);

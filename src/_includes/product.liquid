@@ -52,7 +52,15 @@ layout: main.liquid
 
     <p>{{ description }}</p>
 
-    <div>
+    <div class="cart-content">
+
+    <div class="quantity-container">
+
+      <label>Quantity</label>
+      <input id="quantity" type="number" min="1" max="{{ max_quantity }}">
+
+    </div>
+  {% if max_quantity %}
 
     <button class="snipcart-add-item"
             data-item-id="{{ name }}"
@@ -60,13 +68,37 @@ layout: main.liquid
             data-item-url="{{ page.url }}"
             data-item-description="{{ description }}"
             data-item-image="{{ image }}"
-            data-item-name="{{ name }}">
+            data-item-name="{{ name }}"
+            data-item-max-quantity="{{max_quantity}}">
             Add to cart
     </button>
+
+    {% else %}
+
+    <button class="snipcart-add-item"
+            data-item-id="{{ name }}"
+            data-item-price="{{ price }}"
+            data-item-url="{{ page.url }}"
+            data-item-description="{{ description }}"
+            data-item-image="{{ image }}"
+            data-item-name="{{ name }}"
+            >
+            Add to cart
+    </button>
+    {% endif %}
   
     </div>
   </form>
 </div>
+
+<script>
+const button = document.querySelector('.snipcart-add-item')
+const quantity = document.querySelector('#quantity')
+quantity.addEventListener('change', () => {
+  // Sets the default quantity when adding the item
+  button.setAttribute('data-item-quantity', quantity.value)
+})
+</script>
 
 <script id="sjs-carousel" defer type="module">
     import { Carousel, LazySource } from '../../packages/es/index.js';
