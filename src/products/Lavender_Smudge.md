@@ -12,5 +12,7 @@ tags:
 - relaxing
 album:
 - "/uploads/lavender.jpeg"
+max_quantity: 
+grams: 5
 
 ---
