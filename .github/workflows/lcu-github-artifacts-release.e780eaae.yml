@@ -12,7 +12,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm ci
   BuildCommand: npm run build
-  Output: "./**/*\n!./node_modules\n!./git\n!./.github"
+  Output: ./_site
 
 jobs:
   build:
