@@ -10,5 +10,7 @@ tags:
 - cleansing
 album:
 - "/uploads/orangeselenite.jpeg"
+max_quantity: 
+grams: 5
 
 ---
