@@ -7,5 +7,7 @@ tags:
 - tigers eye
 album:
 - "/uploads/bluetigerseye.jpeg"
+max_quantity: 1
+grams: 150
 
 ---
