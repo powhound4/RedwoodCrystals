@@ -16,7 +16,6 @@ module.exports = (config) => {
         currency: 'USD',
         style: 'currency',
       });
-  
       return formatter.format(value);
     });
 
