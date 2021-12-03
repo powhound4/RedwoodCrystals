@@ -169,12 +169,10 @@ header {
   }
 
   .footer-container{
-    padding:13px 0px;
     color: var(--main-light);
     background-color: #123132;
     position: absolute;
     bottom: 0;
-    
     width: 100%;
   }
 
