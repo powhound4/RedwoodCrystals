@@ -17,6 +17,10 @@
   color: var(--main-dark);
 }
 
+.fc-content{
+  margin-bottom: 50px;
+}
+
 .collapsible {
     background-color: #777;
     color: white;
