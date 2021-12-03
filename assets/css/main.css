@@ -244,6 +244,12 @@ header {
   .collections-container{
     display: grid;
     margin-top: -105px;
+    grid-gap: 10px;
+  }
+
+  .shop-collection{
+    height: 350px;
+    width: 250px;
   }
 
   .about-us-container{

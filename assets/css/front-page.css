@@ -54,6 +54,7 @@
     width: 300px;
     background-size: 100% 100%;
     margin: auto;
+    border-radius: 5px;
 }
 
 .collection-title{
