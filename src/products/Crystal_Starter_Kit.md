@@ -11,6 +11,7 @@ description: 'This Crystal Starter Kit includes 7 beautiful pieces to clear that
   orange selenite, citrine, green calcite, rose quartz, and blue calcite!'
 image: "/uploads/dsc_0041.jpg"
 album:
+- "/uploads/dsc_0041.jpg"
 - "/uploads/dsc_0031.jpg"
 
 ---
