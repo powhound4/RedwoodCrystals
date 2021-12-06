@@ -11,6 +11,7 @@ description: These Selenite Bowls are from Morocco and are made for cleansing an
   selenite bowl for an instant cleanse. These bowls provide mental clarity and boosts
   creativity. Gratitude candle & Redwood Crystal sticker included too!
 image: "/uploads/dsc_0032.jpg"
-album: []
+album:
+- "/uploads/dsc_0032.jpg"
 
 ---
