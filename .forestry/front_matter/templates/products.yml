@@ -26,11 +26,6 @@ fields:
     min: 
     max: 
     step: 
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
 - name: tags
   type: tag_list
   default: []
