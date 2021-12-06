@@ -1,7 +1,13 @@
 ---
 price: 5
-name: Lavender Smudge
-description: Love, Relaxing, Cleansing
+name: Lavender Rose Smudge Bundle
+description: "Handmade beautiful English Lavender smudge bundles with dried roses
+  from my families garden in Northern California! This product is very special from
+  the cutting, wrapping, and drying process including the gathering, blessing, and
+  wrapping of roses. All natural and made by yours truly! \n\nThis product is a great
+  addition to burn in your home to bring a sense of peace and calming. Used to invite
+  positive energy, infused with love, and handmade with the intention of promoting
+  restful sleep."
 image: "/uploads/lavender.jpeg"
 tags:
 - smudge
@@ -11,8 +17,11 @@ tags:
 - love
 - relaxing
 album:
-- "/uploads/lavender.jpeg"
-max_quantity: 
-grams: 5
+- "/uploads/dsc_0034.jpg"
+- "/uploads/dsc_0031-copy.jpg"
+- "/uploads/dsc_0036.jpg"
+- "/uploads/dsc_0040.jpg"
+max_quantity: 10
+grams: 16.2
 
 ---
