@@ -1,7 +1,7 @@
 ---
 price: 3
 tags:
-- under-10
+- under10
 max_quantity: 50
 grams: 30
 name: Rough Rose Quartz Chunks
