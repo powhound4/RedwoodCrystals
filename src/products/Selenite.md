@@ -9,7 +9,6 @@ tags:
 - cleansing
 album:
 - "/uploads/selenite.jpeg"
-- "/uploads/selenite.jpeg"
 max_quantity: 
 grams: 5
 
