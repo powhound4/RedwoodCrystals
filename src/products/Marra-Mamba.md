@@ -9,7 +9,6 @@ tags:
 - hematite
 album:
 - "/uploads/maramamba.jpeg"
-- "/uploads/maramamba.jpeg"
 max_quantity: 1
 grams: 150
 
