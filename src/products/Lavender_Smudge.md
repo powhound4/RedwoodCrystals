@@ -17,6 +17,8 @@ tags:
 - love
 - relaxing
 album:
+- "/uploads/lavender_rose_overhead.jpg"
+- "/uploads/lavender_rose.jpg"
 - "/uploads/dsc_0034.jpg"
 - "/uploads/dsc_0031-copy.jpg"
 - "/uploads/dsc_0036.jpg"
