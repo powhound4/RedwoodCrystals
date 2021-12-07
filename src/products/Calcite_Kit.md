@@ -14,6 +14,7 @@ description: "Calcite is a mineral that is found all over the world, these speci
   and balances emotions. \n✨GREEN: Soothing, dissolve old beliefs, and opens up the
   heart space. Supports growth, purpose, and healing."
 album:
+- "/uploads/calcite_collection-1.jpg"
 - "/uploads/dsc_0137.jpg"
 
 ---
