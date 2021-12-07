@@ -12,6 +12,8 @@ description: 'These Cleansing Kits are put together with love, made for cleansin
   or stuck energy. '
 image: "/uploads/dsc_0062.jpg"
 album:
+- "/uploads/smudge_bundle.jpg"
+- "/uploads/smudge_bundle_back.jpg"
 - "/uploads/dsc_0062.jpg"
 - "/uploads/dsc_0058.jpg"
 
