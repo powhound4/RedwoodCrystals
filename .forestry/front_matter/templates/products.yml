@@ -55,6 +55,7 @@ fields:
     max: 
     step: 
 pages:
+- src/products/Amethyst_Point.md
 - src/products/Calcite_Kit.md
 - src/products/Citrine.md
 - src/products/Cleansing_Kit.md
