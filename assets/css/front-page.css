@@ -1,7 +1,7 @@
 @import url(./theme.css);
 
 .welcome-container{
-  background-image: url("../../uploads/fullsizeoutput_eb1.jpeg");
+  background-image: url("../../uploads/cover-picture.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 600px;
@@ -89,7 +89,7 @@
 }
 
 #kits-bowls-collection{
-  background-image: url("../../uploads/whitesage.jpeg");
+  background-image: url("../../uploads/starter_bowls.jpg");
   background-repeat: no-repeat;
 
 }
