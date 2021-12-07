@@ -55,6 +55,9 @@ fields:
     max: 
     step: 
 pages:
+- src/products/Amethyst_Point.md
+- src/products/Calcite_Kit.md
+- src/products/Citrine.md
 - src/products/Cleansing_Kit.md
 - src/products/Crystal_Starter_Kit.md
 - src/products/Honeycomb_Calcite.md
@@ -62,6 +65,8 @@ pages:
 - src/products/Lavender_Smudge.md
 - src/products/Marra-Mamba.md
 - src/products/Orange_Selenite.md
+- src/products/Rose_Quartz.md
 - src/products/Selenite.md
 - src/products/Selenite_Bowl.md
+- src/products/Smoky_Quartz.md
 - src/products/White_Sage_Smudge.md
