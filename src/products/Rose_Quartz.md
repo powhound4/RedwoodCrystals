@@ -10,6 +10,5 @@ description: A stone of unconditional love. Rose quartz provides a sense of comp
   extra love or support.
 album:
 - "/uploads/rose_quartz.jpg"
-- "/uploads/dsc_0036-2.jpg"
 
 ---
