@@ -9,7 +9,8 @@ tags:
 - sage
 - under10
 album:
-- "/uploads/whitesage.jpeg"
+- "/uploads/sage_smudge.jpg"
+- "/uploads/dsc_0166.jpg"
 max_quantity: 
 grams: 10
 
