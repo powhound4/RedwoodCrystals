@@ -7,7 +7,6 @@ tags:
 - labradorite
 album:
 - "/uploads/labadorite.jpeg"
-- "/uploads/labadorite.jpeg"
 max_quantity: 
 grams: 150
 

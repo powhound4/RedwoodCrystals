@@ -19,10 +19,6 @@ tags:
 album:
 - "/uploads/lavender_rose_overhead.jpg"
 - "/uploads/lavender_rose.jpg"
-- "/uploads/dsc_0034.jpg"
-- "/uploads/dsc_0031-copy.jpg"
-- "/uploads/dsc_0036.jpg"
-- "/uploads/dsc_0040.jpg"
 max_quantity: 10
 grams: 16.2
 
