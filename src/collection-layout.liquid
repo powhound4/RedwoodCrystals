@@ -17,7 +17,7 @@ permalink: /collections/{{ tag }}/
     {% if product.data.name %}
     <li>
       <a href="{{ product.url }}">
-        <img alt="" src="{{ product.data.image }}" />
+        <img alt="" src="{{ product.data.album[0] }}" />
 
         {{ product.data.name }}
       </a>
