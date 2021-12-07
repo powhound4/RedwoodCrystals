@@ -10,6 +10,5 @@ description: Citrine is the stone of abundance, manifestation, and transformatio
   office!
 album:
 - "/uploads/citrine_sm.jpg"
-- "/uploads/dsc_0175.jpg"
 
 ---
