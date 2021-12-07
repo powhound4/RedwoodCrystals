@@ -13,7 +13,5 @@ image: "/uploads/dsc_0041.jpg"
 album:
 - "/uploads/starter_bowl.jpg"
 - "/uploads/starter_bowls.jpg"
-- "/uploads/dsc_0041.jpg"
-- "/uploads/dsc_0031.jpg"
 
 ---
