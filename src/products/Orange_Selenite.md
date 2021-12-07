@@ -10,6 +10,7 @@ tags:
 - grounding
 - cleansing
 album:
+- "/uploads/orange_selenite.jpg"
 - "/uploads/dsc_0041-copy.jpg"
 max_quantity: 50
 grams: 75
