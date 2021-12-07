@@ -56,6 +56,7 @@ fields:
     step: 
 pages:
 - src/products/Calcite_Kit.md
+- src/products/Citrine.md
 - src/products/Cleansing_Kit.md
 - src/products/Crystal_Starter_Kit.md
 - src/products/Honeycomb_Calcite.md
