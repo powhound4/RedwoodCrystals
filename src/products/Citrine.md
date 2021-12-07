@@ -1,7 +1,7 @@
 ---
 price: 10
 tags:
-- under-10
+- under10
 max_quantity: 5
 grams: 80
 name: Citrine
