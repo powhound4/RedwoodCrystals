@@ -2,6 +2,7 @@
 price: 10
 tags:
 - under10
+- quartz
 max_quantity: 30
 grams: 20
 name: Smoky Quartz
