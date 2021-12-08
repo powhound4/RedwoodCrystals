@@ -9,6 +9,6 @@ description: Citrine is the stone of abundance, manifestation, and transformatio
   Supports accomplishing your goals and brings prosperity. Perfect to have in your
   office!
 album:
-- "/uploads/citrine_sm.jpg"
+- "/uploads/citrine_sm_sq.jpg"
 
 ---
