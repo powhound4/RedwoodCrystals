@@ -9,6 +9,6 @@ description: 'These gorgeous amethyst points promote transformation and protecti
   Time to unplug from unhealthy attachments and relationships and get rid of that
   negativity! This crystal helps relieve stress and promotes joy. '
 album:
-- "/uploads/amythyst_point_sm.jpg"
+- "/uploads/amythyst_point_sm-2.jpg"
 
 ---
