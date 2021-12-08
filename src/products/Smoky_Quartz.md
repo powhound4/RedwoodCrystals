@@ -8,7 +8,7 @@ name: Smoky Quartz
 description: 'Smoky Quartz is great to assist in your meditation practice and aid
   in relieving stress. '
 album:
-- "/uploads/smokey_quartz_line.jpg"
-- "/uploads/smokey_quartz.jpg"
+- "/uploads/smokey_quartz-2.jpg"
+- "/uploads/smokey_quartz_line-2.jpg"
 
 ---
