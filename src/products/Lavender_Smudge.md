@@ -17,7 +17,7 @@ tags:
 - love
 - relaxing
 album:
-- "/uploads/lavender_rose_overhead.jpg"
+- "/uploads/lavender_rose_overhead-2.jpg"
 - "/uploads/lavender_rose.jpg"
 max_quantity: 10
 grams: 16.2
