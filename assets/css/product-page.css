@@ -8,9 +8,8 @@
   #products {
     color: var(--main-dark);
     display: grid;
-    grid-gap: 2em 2em;
+    grid-gap: 2em .5em;
     grid-template-columns: repeat(auto-fit, minmax(325px, 1fr));
-    margin: 3em 1em;
     list-style: none;
     padding: 0;
     text-align: center;
@@ -19,7 +18,10 @@
     
   }
   #products img {
-    border-radius: 15px;
+    border-radius: 5px;
+  }
+  .collection-img:hover{
+    box-shadow: -3px 3px 9px #52352a;
   }
   #products  li{
     
@@ -62,6 +64,12 @@
   #product-view img {
     height: auto;
     max-width: 100%;
+    transition:transform 0.25s ease;
+  }
+
+  #product-view img:hover {
+    -webkit-transform:scale(1.5); 
+    transform:scale(1.5); 
   }
   #product-view label {
     font-size: 110%;

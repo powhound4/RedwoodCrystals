@@ -20,7 +20,7 @@ header {
     background-color: var(--main-light);
     display: flex;
     justify-content: space-between;
-    padding: 1em 2em;
+    padding: 1em 2em 0em;
     z-index: 10;
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
     position: sticky;
@@ -144,6 +144,11 @@ header {
   cursor: pointer;
   font-size: 16px;
   text-decoration: none;
+  border-radius: 2px;
+  padding: 5px;
+}
+.toolbar-button:hover{
+  background-color: var(--toolbar-color);
 }
   body {
     font-family: sans-serif;

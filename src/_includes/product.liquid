@@ -22,7 +22,7 @@ layout: main.liquid
       {% for image in album %}
         <div class="sjs-carousel-item">
 
-          <img alt="" src="{{ image }}" height="959" width="640" />
+          <img id="main-image-{{ image }}" alt="Redwood Crystals" src="{{ image }}" height="959" width="640" />
 
         </div>
       {% endfor %}
@@ -38,7 +38,7 @@ layout: main.liquid
     {% if album.length >= 2 %}
       <div class="thumbnail-display">
         {% for image in album %}
-          <img class="thumbnail-img" alt="" src="{{ image }}" id="{{image.index}}" height="100" width="66" />
+          <img class="thumbnail-img" alt="" src="{{ image }}" id="{{image}}" height="100" width="66" />
         {% endfor %}
       </div>
     {% endif %}
@@ -99,6 +99,16 @@ quantity.addEventListener('change', () => {
   button.setAttribute('data-item-quantity', quantity.value)
 })
 </script>
+{% comment %} click on image {% endcomment %}
+{% comment %} <script>
+const onClick = (event) => {
+  if (event.target.className === 'thumbnail-img') {
+    var mainImage = document.getElementById('main-product-image');
+    mainImage.setAttribute('src', event.target.id);
+  }
+}
+window.addEventListener('click', onClick);
+</script> {% endcomment %}
 
 <script id="sjs-carousel" defer type="module">
     import { Carousel, LazySource } from '../../packages/es/index.js';
@@ -110,5 +120,13 @@ quantity.addEventListener('change', () => {
     const lazySrcs = new LazySource();
 
     lazySrcs.Mount('[data-src]');
+
+    const onClick = (event) => {
+      if (event.target.className === 'thumbnail-img') {
+        var htmlEle = document.getElementById("main-image-"+event.target.id).parentElement;
+        imgCarousel.SetSlide(htmlEle);
+      }
+}
+window.addEventListener('click', onClick);
 
 </script>

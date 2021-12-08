@@ -49,10 +49,12 @@ class Carousel {
         this.mountedEl = this.mountToElement(selector);
     }
     SetSlide(slide) {
+        //  console.log("set slide: ", this.items); 
+        //  console.log("slide = ",  slide);
         var _a;
-        console.log("set slide: ", this.items);
         if (slide instanceof HTMLElement) {
             slide = (_a = this.items) === null || _a === void 0 ? void 0 : _a.indexOf(slide);
+            //  console.log("slide converted : ", slide);
         }
         if (!this.isMoving) {
             this.removeClasses();
@@ -117,7 +119,7 @@ class Carousel {
      * Set carousel classes
      */
     setClasses() {
-        console.log("items: ", this.items);
+        //  console.log("items: ", this.items);
         if (this.items.length >= 2) {
             this.items[this.PreviousSlide].classList.add('prev');
             this.items[this.Slide].classList.add('active');

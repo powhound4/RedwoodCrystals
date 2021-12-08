@@ -115,10 +115,12 @@
      }
  
      public SetSlide(slide: number | HTMLElement): void {
-         console.log("set slide: ", this.items); 
+        //  console.log("set slide: ", this.items); 
+        //  console.log("slide = ",  slide);
 
          if (slide instanceof HTMLElement) {
              slide = <number>this.items?.indexOf(slide);
+            //  console.log("slide converted : ", slide);
          }
  
          if (!this.isMoving) {
@@ -210,7 +212,7 @@
       * Set carousel classes
       */
      protected setClasses(): void {
-         console.log("items: ", this.items);
+        //  console.log("items: ", this.items);
          if(this.items.length >= 2){
          
          this.items[this.PreviousSlide].classList.add('prev');
