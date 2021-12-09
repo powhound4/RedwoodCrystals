@@ -38,7 +38,7 @@ layout: main.liquid
     {% if album.length >= 2 %}
       <div class="thumbnail-display">
         {% for image in album %}
-          <img class="thumbnail-img" alt="Redwood Crystals" src="{{ image }}" id="{{image}}" />
+          <img class="thumbnail-img" alt="Redwood Crystals" src="{{ image }}" id="{{image}}" height="100px" width="100px"/>
         {% endfor %}
       </div>
     {% endif %}
