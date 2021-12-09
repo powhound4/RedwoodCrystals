@@ -44,8 +44,9 @@
 
   .thumbnail-img{
       margin:5px;
-      height: 100px;
-      width: 100px;
+      height: auto;
+    max-width: 100%;
+    width: 100px;
   }
 
 
