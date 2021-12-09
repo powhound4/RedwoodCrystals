@@ -5,6 +5,7 @@ description: Healing, Strengthening
 image: "/uploads/honeycombcalcite.jpeg"
 tags:
 - calcite
+- rare
 album:
 - "/uploads/honeycombcalcite.jpeg"
 max_quantity: 1

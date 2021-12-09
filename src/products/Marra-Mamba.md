@@ -7,6 +7,7 @@ tags:
 - tigers eye
 - jasper
 - hematite
+- rare
 album:
 - "/uploads/maramamba.jpeg"
 max_quantity: 1
