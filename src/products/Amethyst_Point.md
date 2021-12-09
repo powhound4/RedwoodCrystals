@@ -2,6 +2,7 @@
 price: 10
 tags:
 - under10
+- quartz
 max_quantity: 10
 grams: 40
 name: Amethyst Point
