@@ -29,7 +29,6 @@ module.exports = (config) => {
 
     config.setDataDeepMerge(true);  
   
-    //  Change the default folder used by 11ty from root to src
     return {
       dir: {
         input: 'src',
