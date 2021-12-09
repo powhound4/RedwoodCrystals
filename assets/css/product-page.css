@@ -61,10 +61,9 @@
   #product-view h2 + p {
     margin-top: 0;
   }
-  #product-view img {
+  .product-image-displayed {
     height: auto;
     max-width: 100%;
-    
   }
 
   
@@ -112,7 +111,7 @@
       display: flex;
       justify-content: space-evenly;
     }
-    #product-view img {
+    .product-image-displayed {
       max-width: 25vw;
       margin: 0px 10px 0px 10px;
       border-radius: 5px;
@@ -121,7 +120,7 @@
     #product-view .body {
       max-width: 30em;
     }
-    #product-view img:hover {
+    .product-image-displayed:hover {
       -webkit-transform:scale(1.5); 
       transform:scale(1.5); 
     }
