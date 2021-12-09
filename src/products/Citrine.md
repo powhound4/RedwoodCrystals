@@ -2,6 +2,7 @@
 price: 10
 tags:
 - under10
+- quartz
 max_quantity: 5
 grams: 80
 name: Citrine
