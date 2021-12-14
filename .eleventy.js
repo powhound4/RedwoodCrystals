@@ -5,6 +5,7 @@ module.exports = (config) => {
     //  Passthrough the assets folder used for our css, favicon and other assets
     config.addPassthroughCopy('assets');
 
+    //pass the packages through for the carousel and other typescript files
     config.addPassthroughCopy('packages');   
 
     //  Passthrough the package.json file
@@ -19,6 +20,7 @@ module.exports = (config) => {
       return formatter.format(value);
     });
 
+    //sort the policies based on their order
     config.addCollection("ordered-policies", collection => {
       const pols = collection.getFilteredByGlob("src/Policies/*.md")
       .sort((a, b) => {
@@ -27,6 +29,7 @@ module.exports = (config) => {
       return pols;
     });
 
+    //allows for global tags to be applied along with specific tags
     config.setDataDeepMerge(true);  
   
     return {
