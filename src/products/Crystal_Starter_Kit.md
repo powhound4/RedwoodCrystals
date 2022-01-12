@@ -2,6 +2,7 @@
 price: 30
 tags:
 - kits-and-bowls
+- crystals
 max_quantity: 10
 grams: 450
 name: Crystal Starter Kit

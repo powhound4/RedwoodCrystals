@@ -8,6 +8,7 @@ tags:
 - jasper
 - hematite
 - rare
+- crystals
 album:
 - "/uploads/maramamba.jpeg"
 max_quantity: 1

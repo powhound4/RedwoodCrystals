@@ -7,6 +7,7 @@ tags:
 - selenite
 - under10
 - cleansing
+- crystals
 album:
 - "/uploads/selenite.jpeg"
 max_quantity: 

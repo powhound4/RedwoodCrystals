@@ -1,6 +1,7 @@
 ---
 price: 20
-tags: []
+tags:
+- kits-and-bowls
 max_quantity: 10
 grams: 155
 name: Cleansing Kit

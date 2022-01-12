@@ -9,6 +9,7 @@ tags:
 - under10
 - grounding
 - cleansing
+- crystals
 album:
 - "/uploads/orange_selenite.jpg"
 max_quantity: 50

@@ -3,6 +3,7 @@ price: 10
 tags:
 - under10
 - quartz
+- crystals
 max_quantity: 5
 grams: 80
 name: Citrine

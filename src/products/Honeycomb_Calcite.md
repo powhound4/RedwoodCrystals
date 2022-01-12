@@ -6,6 +6,7 @@ image: "/uploads/honeycombcalcite.jpeg"
 tags:
 - calcite
 - rare
+- crystals
 album:
 - "/uploads/honeycombcalcite.jpeg"
 max_quantity: 1
