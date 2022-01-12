@@ -2,8 +2,8 @@
 price: 10
 tags:
 - kits-and-bowls
-- crystals
 - under10
+- crystals
 max_quantity: 20
 grams: 155
 name: Calcite Kit
