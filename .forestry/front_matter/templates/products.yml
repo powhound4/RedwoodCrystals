@@ -54,6 +54,10 @@ fields:
     min: 
     max: 
     step: 
+- name: instock
+  type: boolean
+  label: InStock
+  description: Is the product in stock true or false
 pages:
 - src/products/Amethyst_Point.md
 - src/products/Calcite_Kit.md
