@@ -14,5 +14,6 @@ image: "/uploads/dsc_0041.jpg"
 album:
 - "/uploads/starter_bowl.jpg"
 - "/uploads/starter_bowls.jpg"
+out_of_stock: false
 
 ---
