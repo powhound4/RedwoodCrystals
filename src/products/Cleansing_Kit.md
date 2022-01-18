@@ -15,5 +15,6 @@ image: "/uploads/dsc_0062.jpg"
 album:
 - "/uploads/smudge_bundle.jpg"
 - "/uploads/smudge_bundle_back.jpg"
+out_of_stock: false
 
 ---
