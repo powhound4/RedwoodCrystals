@@ -11,5 +11,6 @@ album:
 - "/uploads/honeycombcalcite.jpeg"
 max_quantity: 1
 grams: 150
+out_of_stock: false
 
 ---
