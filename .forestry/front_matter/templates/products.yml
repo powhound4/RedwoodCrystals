@@ -56,8 +56,9 @@ fields:
     step: 
 - name: instock
   type: boolean
-  label: InStock
+  label: In Stock
   description: Is the product in stock true or false
+  default: false
 pages:
 - src/products/Amethyst_Point.md
 - src/products/Calcite_Kit.md
