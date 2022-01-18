@@ -9,8 +9,10 @@ description: "This palm stone is smooth to the touch and wonderful to add to you
   meditation practice or on display! Full of positive energy and filled with beautiful
   blue iridescent colors. 2.5\" inches in length.\n\nLabradorite is a wonderful stone
   for creativity and transformation. Connection to the throat, third eye, and crown
-  chakras- this stone enhances ones connection to self. \n"
+  chakras- this stone enhances ones connection to self. \n\n*White sage in picture
+  not included*\n"
 album:
 - "/uploads/dsc_0169.jpg"
+out_of_stock: false
 
 ---
