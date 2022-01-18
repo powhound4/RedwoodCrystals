@@ -13,5 +13,6 @@ description: These Selenite Bowls are from Morocco and are made for cleansing an
 image: "/uploads/dsc_0032.jpg"
 album:
 - "/uploads/selenite_bowl.jpg"
+out_of_stock: false
 
 ---
