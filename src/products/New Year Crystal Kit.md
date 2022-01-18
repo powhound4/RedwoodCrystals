@@ -14,5 +14,6 @@ description: "This Kit includes a hand wrapped Peacock Feather from Limon, CO wi
   crystals for manifestation & intention setting for 2022! "
 album:
 - "/uploads/271285952_140636728355440_6867116911193187876_n.jpg"
+out_of_stock: false
 
 ---
