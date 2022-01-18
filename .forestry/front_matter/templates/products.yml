@@ -54,11 +54,11 @@ fields:
     min: 
     max: 
     step: 
-- name: instock
+- name: out_of_stock
   type: boolean
-  label: In Stock
-  description: Is the product in stock true or false
+  description: toggle to display out of stock
   default: false
+  label: Out of Stock
 pages:
 - src/products/Amethyst_Point.md
 - src/products/Calcite_Kit.md
