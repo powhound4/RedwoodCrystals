@@ -21,5 +21,6 @@ album:
 - "/uploads/lavender_rose.jpg"
 max_quantity: 10
 grams: 16.2
+out_of_stock: false
 
 ---
