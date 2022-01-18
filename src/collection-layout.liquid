@@ -14,7 +14,7 @@ permalink: /collections/{{ tag }}/
 
 <ul id="products">
   {% for product in collections[tag] %}
-    {% if product.data.name %}
+    {% if product.data.name and product.data.out_of_stock == false %}
     <li>
       <a href="{{ product.url }}">
         <img class="collection-img" alt="" src="{{ product.data.album[0] }}" />
