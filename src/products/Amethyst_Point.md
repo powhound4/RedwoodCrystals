@@ -12,5 +12,6 @@ description: 'These gorgeous amethyst points promote transformation and protecti
   negativity! This crystal helps relieve stress and promotes joy. '
 album:
 - "/uploads/amythyst_point_sm-2.jpg"
+out_of_stock: false
 
 ---
