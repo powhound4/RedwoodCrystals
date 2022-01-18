@@ -18,13 +18,22 @@
     cursor: pointer;
 }
 
+.sjs-carousel-item {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+}
+
 .sjs-carousel-item.prev,
-.sjs-carousel-item.next {
+.sjs-carousel-item.next
+ {
     display: none;
 }
 
 .sjs-carousel-item.active {
     visibility: visible;
+    opacity: 1;
+    position: relative;
   }
 
 /* Move item left */
