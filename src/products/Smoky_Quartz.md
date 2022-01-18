@@ -12,5 +12,6 @@ description: 'Smoky Quartz is great to assist in your meditation practice and ai
 album:
 - "/uploads/smokey_quartz-2.jpg"
 - "/uploads/smokey_quartz_line-2.jpg"
+out_of_stock: false
 
 ---
