@@ -7,7 +7,7 @@ description: "Handmade beautiful English Lavender smudge bundles with dried rose
   wrapping of roses. All natural and made by yours truly! \n\nThis product is a great
   addition to burn in your home to bring a sense of peace and calming. Used to invite
   positive energy, infused with love, and handmade with the intention of promoting
-  restful sleep."
+  restful sleep.\n\n*Only 1 is included in your purchase*"
 image: "/uploads/lavender.jpeg"
 tags:
 - smudge
