@@ -1,8 +1,9 @@
 ---
 price: 5
 name: Orange Selenite
-description: 'Orange Selenite is very grounding and aids in removing negativity. Perfect
-  to place anywhere in your home especially in the corner of a room. '
+description: "Orange Selenite is very grounding and aids in removing negativity. Perfect
+  to place anywhere in your home especially in the corner of a room. \n\n*One raw
+  orange selenite piece included*"
 image: "/uploads/orangeselenite.jpeg"
 tags:
 - selenite
