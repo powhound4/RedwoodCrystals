@@ -1,7 +1,9 @@
 ---
 price: 5
 name: White Sage Smudge
-description: Sacred Cleansing
+description: 'White sage is used to cleanse and clear spaces of negative and stagnant
+  energies. Perfect to have in your home, office, or to gift to a family member or
+  friend. '
 image: "/uploads/whitesage.jpeg"
 tags:
 - smudge
