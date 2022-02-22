@@ -62,6 +62,7 @@
 .collection-title{
     display: flex;
     justify-content: center;
+    color: var(--button-color)
 }
 .collection-btn-container{
     display: flex;

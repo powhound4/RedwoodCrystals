@@ -197,6 +197,10 @@ header {
   .footer-text{
     
   }
+  .link{
+    text-decoration: none;
+    color: white;
+  }
 
   .help-link-container{
     display: grid;
