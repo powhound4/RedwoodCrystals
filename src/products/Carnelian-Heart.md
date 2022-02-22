@@ -1,5 +1,5 @@
 ---
-price: 20
+price: 25
 tags: []
 max_quantity: 1
 grams: 176
