@@ -14,6 +14,6 @@ album:
 - "/uploads/sage_smudge.jpg"
 max_quantity: 
 grams: 10
-out_of_stock: true
+out_of_stock: false
 
 ---
