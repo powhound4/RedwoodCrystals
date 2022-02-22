@@ -4,7 +4,7 @@ tags:
 - under-10
 max_quantity: 1
 grams: 65.2
-name: Druzy-Agate-Tower
+name: Druzy Agate Tower
 description: "⚡Druzy Agate provides protection and a sense of grounding energy. Brings
   inner strength and courage to fight off stress. Promotes balance and clarity with
   emotions and inner healing. Fantastic to place in an office space or a space where

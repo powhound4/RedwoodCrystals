@@ -4,7 +4,7 @@ tags:
 - under-10
 max_quantity: 50
 grams: ".3"
-name: Peacock_Feathers
+name: Peacock Feathers
 description: "Peacock Feathers from Limon, Colorado. Available for just $3 each. These
   gorgeous pieces make a lovely addition to any home space, grab a handful of these
   beauties today! \n\nApproximately 12.5 inches long ❤"

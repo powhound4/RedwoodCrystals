@@ -3,7 +3,7 @@ price: 20
 tags: []
 max_quantity: 1
 grams: 149
-name: Carnelian-Stone
+name: Carnelian Stone
 description: This carnelian stone enhances creativity, confidence, and love. Known
   for the root, sacral, and solar plexus chakras- sensual/sexual energies along with
   feeling grounded and supported. Fiery shades of red and orange. A great gift for
