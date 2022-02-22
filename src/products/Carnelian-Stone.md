@@ -1,5 +1,5 @@
 ---
-price: 8
+price: 10
 tags:
 - under-10
 max_quantity: 1
