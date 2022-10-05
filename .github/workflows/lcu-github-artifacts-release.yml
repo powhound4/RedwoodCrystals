@@ -6,7 +6,10 @@ on:
   pull_request:
     branches: [master]
 
+permissions: write-all
+
 env:
+  CI: false
   Branches: master
   MainBranch: master
   NPMRegistry: https://registry.npmjs.org/
